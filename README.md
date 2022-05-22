@@ -23,7 +23,7 @@ The full list of requirements is in `Requirement_RL.txt`. Latest version of pack
 ## How to Run
 To run and show the game, execute in the root folder:
 
-Activate  the virtual environment or create your own.
+create virtual environment and activate it.
 
 ```bash
 
